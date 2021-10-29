@@ -1,4 +1,4 @@
-[![Banner for Triv-Code](/img/github_banner.png)]
+![Banner for Triv-Code](/img/github_banner.png)
 
 <!--
 **Triv-Code/Triv-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
